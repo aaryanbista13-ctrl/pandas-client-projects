@@ -1,0 +1,20 @@
+import pandas as pd
+df=pd.read_csv("local_shop.csv")
+df=df.drop_duplicates()
+df=df.replace("(empty)",0)
+df['Price']=df['Price'].astype(float)
+df['Stock']=df['Stock'].astype(int)
+average_price=df['Price'].mean().round(2)
+df['Price']=df['Price'].replace(0,average_price)
+print(df)
+print(f"\n1:Total products:{len(df['Product'])}")
+highest_price_index=df['Price'].idxmax()
+most_expensive_product=df.loc[highest_price_index]
+print(f"\n2:Most expensive product:\n{most_expensive_product}")
+lowest_price_index=df['Price'].idxmin()
+cheapest_product=df.loc[lowest_price_index]
+print(f"\n3:Low_Budget product:\n{cheapest_product}")
+print(f"\n4:Average price for each  product:\n{df.groupby('Category')['Price'].mean().round(2)}")
+total_Stocks=df['Stock'].sum()
+print(f"\n5:Total available  stocks :{total_Stocks}")
+df.to_csv("cleaned_local_shop.csv",index=False)

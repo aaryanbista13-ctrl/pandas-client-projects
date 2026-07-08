@@ -1,0 +1,17 @@
+Product,Category,Price,Stock
+Laptop,Electronics,65000.0,8
+Mouse,Electronics,1200.0,25
+Keyboard,Electronics,2500.0,15
+Notebook,Stationery,80.0,120
+Pen,Stationery,20.0,250
+Chair,Furniture,3500.0,12
+Desk,Furniture,7000.0,5
+Bottle,Accessories,450.0,40
+Bag,Accessories,1200.0,18
+Monitor,Electronics,6025.0,7
+Headphones,Electronics,3200.0,0
+Table Lamp,Furniture,1800.0,9
+Water Bottle,Accessories,600.0,0
+Bookshelf,Furniture,9500.0,3
+Pencil,Stationery,6025.0,300
+USB Cable,Electronics,350.0,60
