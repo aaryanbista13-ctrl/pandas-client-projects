@@ -1,0 +1,27 @@
+OrderID,Customer,Product,Category,City,Quantity,Price,Discount,Payment_Method
+1001,Alice,Laptop,Electronics,New York,1,1200,10,Card
+1002,Bob,Office Chair,Furniture,Chicago,2,180,5,Cash
+1003,Charlie,Rice,Grocery,Dallas,5,25,0,UPI
+1004,David,T-Shirt,Clothing,Miami,3,30,15,Card
+1005,Eva,Notebook,Stationery,Boston,10,5,0,Cash
+1006,Alice,Mouse,Electronics,New York,2,25,10,UPI
+1007,Bob,Desk,Furniture,Chicago,1,250,8,Card
+1008,Charlie,Milk,Grocery,Dallas,8,4,0,Cash
+1009,David,Jeans,Clothing,Miami,2,60,12,Card
+1010,Eva,Pen,Stationery,Boston,20,2,0,UPI
+1011,Frank,Laptop,Electronics,Dallas,1,1200,5,Card
+1012,Grace,Sofa,Furniture,Miami,1,800,20,Card
+1013,Harry,Bread,Grocery,Chicago,10,3,0,Cash
+1014,Ivy,Jacket,Clothing,New York,1,120,10,UPI
+1015,Jack,Marker,Stationery,Dallas,15,3,0,Cash
+1016,Alice,Keyboard,Electronics,Boston,1,80,5,Card
+1017,Bob,Bookshelf,Furniture,Chicago,1,300,10,UPI
+1018,Charlie,Eggs,Grocery,Miami,12,2.5,0,Cash
+1019,David,Shoes,Clothing,Dallas,1,90,18,Card
+1020,Eva,Printer Paper,Stationery,New York,5,8,5,Cash
+1021,Frank,Headphones,Electronics,Boston,2,150,15,UPI
+1022,Grace,Coffee Table,Furniture,Miami,1,220,12,Card
+1023,Harry,Oil,Grocery,Chicago,4,12,0,Cash
+1024,Ivy,Cap,Clothing,New York,3,20,5,UPI
+1025,Jack,File Folder,Stationery,Dallas,25,1.5,0,Cash
+1025,Jack,File Folder,Stationery,Dallas,25,1.5,0,Cash

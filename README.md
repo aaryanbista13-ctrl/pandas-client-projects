@@ -192,6 +192,22 @@ A collection of real-world data analysis projects built using \*\*Python\*\* and
 
 
 
+\###### Project 6 – Customer Orders Analysis
+
+\- Revenue after Discounts
+
+\- Customer Spending Analysis
+
+\- Product Revenue Analysis
+
+\- City \& Category Revenue
+
+\- Payment Method Analysis
+
+\- Discount Analysis
+
+
+
 \#Skills Used = GroupBy, idxmax(), nlargest(), Business Analysis
 
 \# Technologies Used:
