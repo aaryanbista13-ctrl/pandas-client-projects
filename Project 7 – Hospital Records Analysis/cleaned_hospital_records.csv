@@ -1,0 +1,30 @@
+PatientID,Patient,Age,Gender,Department,Doctor,Disease,Days_Admitted,Daily_Charge,Insurance,Hospital_Bill,Insurance_Discount,Final_Bill
+1001,Alice,45,Female,Cardiology,Dr. Smith,Heart Disease,5,500,20,2500,500.0,2000.0
+1002,Bob,32,Male,Orthopedics,Dr. Brown,Fracture,7,300,10,2100,210.0,1890.0
+1003,Charlie,28,Male,General Medicine,Dr. Johnson,Flu,3,150,5,450,22.5,427.5
+1004,David,60,Male,Neurology,Dr. Wilson,Migraine,4,450,25,1800,450.0,1350.0
+1005,Eva,12,Female,Pediatrics,Dr. Taylor,Fever,2,180,15,360,54.0,306.0
+1006,Frank,50,Male,Cardiology,Dr. Smith,Heart Disease,6,500,20,3000,600.0,2400.0
+1007,Grace,40,Female,Orthopedics,Dr. Brown,Fracture,5,320,10,1600,160.0,1440.0
+1008,Harry,18,Male,General Medicine,Dr. Johnson,Asthma,4,160,5,640,32.0,608.0
+1009,Ivy,35,Female,Neurology,Dr. Wilson,Migraine,3,450,20,1350,270.0,1080.0
+1010,Jack,8,Male,Pediatrics,Dr. Taylor,Fever,2,180,15,360,54.0,306.0
+1011,Kate,55,Female,Cardiology,Dr. Smith,Heart Disease,7,520,25,3640,910.0,2730.0
+1012,Liam,41,Male,Orthopedics,Dr. Brown,Fracture,6,310,10,1860,186.0,1674.0
+1013,Mia,29,Female,General Medicine,Dr. Johnson,Flu,2,150,5,300,15.0,285.0
+1014,Noah,63,Male,Neurology,Dr. Wilson,Stroke,8,600,30,4800,1440.0,3360.0
+1015,Olivia,10,Female,Pediatrics,Dr. Taylor,Asthma,3,190,10,570,57.0,513.0
+1016,Paul,47,Male,Cardiology,Dr. Smith,Heart Disease,4,510,20,2040,408.0,1632.0
+1017,Queen,39,Female,Orthopedics,Dr. Brown,Fracture,5,305,15,1525,228.75,1296.25
+1018,Ryan,25,Male,General Medicine,Dr. Johnson,Fever,2,155,5,310,15.5,294.5
+1019,Sophia,52,Female,Neurology,Dr. Wilson,Migraine,6,470,25,2820,705.0,2115.0
+1020,Tom,9,Male,Pediatrics,Dr. Taylor,Fever,2,180,10,360,36.0,324.0
+1021,Uma,46,Female,Cardiology,Dr. Smith,Heart Disease,5,500,20,2500,500.0,2000.0
+1022,Victor,34,Male,Orthopedics,Dr. Brown,Fracture,4,315,10,1260,126.0,1134.0
+1023,Wendy,27,Female,General Medicine,Dr. Johnson,Flu,3,150,5,450,22.5,427.5
+1024,Xavier,61,Male,Neurology,Dr. Wilson,Stroke,7,610,30,4270,1281.0,2989.0
+1025,Yara,11,Female,Pediatrics,Dr. Taylor,Asthma,3,185,15,555,83.25,471.75
+1026,Zack,48,Male,Cardiology,Dr. Smith,Heart Disease,6,505,20,3030,606.0,2424.0
+1027,Alice,45,Female,Cardiology,Dr. Smith,Heart Disease,5,500,20,2500,500.0,2000.0
+1028,Bob,32,Male,Orthopedics,Dr. Brown,Fracture,7,300,10,2100,210.0,1890.0
+1029,Charlie,28,Male,General Medicine,Dr. Johnson,Flu,3,150,5,450,22.5,427.5

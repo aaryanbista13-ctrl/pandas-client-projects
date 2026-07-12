@@ -1,0 +1,31 @@
+PatientID,Patient,Age,Gender,Department,Doctor,Disease,Days_Admitted,Daily_Charge,Insurance
+1001,Alice,45,Female,Cardiology,Dr. Smith,Heart Disease,5,500,20
+1002,Bob,32,Male,Orthopedics,Dr. Brown,Fracture,7,300,10
+1003,Charlie,28,Male,General Medicine,Dr. Johnson,Flu,3,150,5
+1004,David,60,Male,Neurology,Dr. Wilson,Migraine,4,450,25
+1005,Eva,12,Female,Pediatrics,Dr. Taylor,Fever,2,180,15
+1006,Frank,50,Male,Cardiology,Dr. Smith,Heart Disease,6,500,20
+1007,Grace,40,Female,Orthopedics,Dr. Brown,Fracture,5,320,10
+1008,Harry,18,Male,General Medicine,Dr. Johnson,Asthma,4,160,5
+1009,Ivy,35,Female,Neurology,Dr. Wilson,Migraine,3,450,20
+1010,Jack,8,Male,Pediatrics,Dr. Taylor,Fever,2,180,15
+1011,Kate,55,Female,Cardiology,Dr. Smith,Heart Disease,7,520,25
+1012,Liam,41,Male,Orthopedics,Dr. Brown,Fracture,6,310,10
+1013,Mia,29,Female,General Medicine,Dr. Johnson,Flu,2,150,5
+1014,Noah,63,Male,Neurology,Dr. Wilson,Stroke,8,600,30
+1015,Olivia,10,Female,Pediatrics,Dr. Taylor,Asthma,3,190,10
+1016,Paul,47,Male,Cardiology,Dr. Smith,Heart Disease,4,510,20
+1017,Queen,39,Female,Orthopedics,Dr. Brown,Fracture,5,305,15
+1018,Ryan,25,Male,General Medicine,Dr. Johnson,Fever,2,155,5
+1019,Sophia,52,Female,Neurology,Dr. Wilson,Migraine,6,470,25
+1020,Tom,9,Male,Pediatrics,Dr. Taylor,Fever,2,180,10
+1021,Uma,46,Female,Cardiology,Dr. Smith,Heart Disease,5,500,20
+1022,Victor,34,Male,Orthopedics,Dr. Brown,Fracture,4,315,10
+1023,Wendy,27,Female,General Medicine,Dr. Johnson,Flu,3,150,5
+1024,Xavier,61,Male,Neurology,Dr. Wilson,Stroke,7,610,30
+1025,Yara,11,Female,Pediatrics,Dr. Taylor,Asthma,3,185,15
+1026,Zack,48,Male,Cardiology,Dr. Smith,Heart Disease,6,505,20
+1027,Alice,45,Female,Cardiology,Dr. Smith,Heart Disease,5,500,20
+1028,Bob,32,Male,Orthopedics,Dr. Brown,Fracture,7,300,10
+1029,Charlie,28,Male,General Medicine,Dr. Johnson,Flu,3,150,5
+1029,Charlie,28,Male,General Medicine,Dr. Johnson,Flu,3,150,5

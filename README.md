@@ -208,6 +208,22 @@ A collection of real-world data analysis projects built using \*\*Python\*\* and
 
 
 
+\#######Project 7 – Hospital Records Analysis
+
+\- Patient Billing Analysis
+
+\- Insurance Discount Calculation
+
+\- Department Revenue Analysis
+
+\- Doctor Performance Analysis
+
+\- Disease Analysis
+
+\- Hospital Business Report
+
+
+
 \#Skills Used = GroupBy, idxmax(), nlargest(), Business Analysis
 
 \# Technologies Used:
