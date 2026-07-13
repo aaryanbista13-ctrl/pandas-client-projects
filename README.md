@@ -224,6 +224,22 @@ A collection of real-world data analysis projects built using \*\*Python\*\* and
 
 
 
+\########Project 8 – Loan Application Analysis
+
+\- Analyze approved loan applications
+
+\- Branch-wise loan analysis
+
+\- Loan type revenue analysis
+
+\- Credit score analysis
+
+\- Loan approval and rejection percentage
+
+\- Customer loan analysis
+
+
+
 \#Skills Used = GroupBy, idxmax(), nlargest(), Business Analysis
 
 \# Technologies Used:

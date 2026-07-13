@@ -1,0 +1,30 @@
+Loan_ID,Customer,Age,City,Branch,Loan_Type,Loan_Amount,Interest_Rate,Loan_Term,Credit_Score,Status
+L001,Alice,32,New York,Downtown,Home,250000,6.5,20,780,Approved
+L002,Bob,45,Chicago,Central,Car,35000,8.2,5,690,Approved
+L003,Charlie,28,Houston,North,Personal,12000,12.5,3,620,Rejected
+L004,David,39,New York,Downtown,Business,180000,9.5,10,710,Approved
+L005,Eva,26,Miami,South,Education,40000,5.8,8,760,Approved
+L006,Frank,50,Chicago,Central,Home,300000,6.8,25,740,Approved
+L007,Grace,31,Houston,North,Car,28000,8.5,5,680,Rejected
+L008,Harry,29,Miami,South,Personal,15000,11.8,4,640,Approved
+L009,Ivy,42,New York,Downtown,Business,220000,9.2,12,720,Approved
+L010,Jack,35,Chicago,Central,Education,45000,6.0,7,750,Approved
+L011,Kate,30,Houston,North,Home,210000,6.7,20,770,Approved
+L012,Liam,37,Miami,South,Car,30000,8.3,5,700,Approved
+L013,Mia,24,New York,Downtown,Personal,10000,12.8,2,610,Rejected
+L014,Noah,41,Chicago,Central,Business,250000,9.0,15,730,Approved
+L015,Olivia,27,Houston,North,Education,38000,5.9,8,760,Approved
+L016,Paul,46,Miami,South,Home,320000,6.6,30,790,Approved
+L017,Queen,33,New York,Downtown,Car,26000,8.1,5,690,Approved
+L018,Ryan,29,Chicago,Central,Personal,17000,12.2,4,630,Rejected
+L019,Sophia,38,Houston,North,Business,210000,9.1,12,710,Approved
+L020,Tom,25,Miami,South,Education,36000,5.7,7,750,Approved
+L021,Uma,34,New York,Downtown,Home,280000,6.4,25,780,Approved
+L022,Victor,48,Chicago,Central,Car,33000,8.4,5,700,Approved
+L023,Wendy,31,Houston,North,Personal,14000,11.9,3,650,Approved
+L024,Xavier,43,Miami,South,Business,240000,9.3,15,720,Approved
+L025,Yara,26,New York,Downtown,Education,42000,5.6,8,770,Approved
+L026,Zack,40,Chicago,Central,Home,290000,6.5,20,760,Approved
+L027,Alice,32,New York,Downtown,Home,250000,6.5,20,780,Approved
+L028,Bob,45,Chicago,Central,Car,35000,8.2,5,690,Approved
+L029,Charlie,28,Houston,North,Personal,12000,12.5,3,620,Rejected
