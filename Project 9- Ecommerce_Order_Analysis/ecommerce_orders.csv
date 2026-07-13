@@ -1,0 +1,21 @@
+Order_ID,Customer,Product,Category,Quantity,Price,Discount,City,Payment_Method,Order_Status
+1001,Alice,Laptop,Electronics,1,1200.0,10,New York,Card,Delivered
+1002,Bob,Shoes,Fashion,2,80.0,5,Chicago,UPI,Delivered
+1003,Charlie,Rice,Grocery,5,20.0,0,Dallas,Cash,Cancelled
+1004,David,Sofa,Home,1,700.0,15,Miami,Card,Delivered
+1005,Eva,Football,Sports,3,35.0,10,Seattle,Net Banking,Returned
+1006,Frank,Headphones,Electronics,2,150.0,20,Chicago,UPI,Delivered
+1007,Grace,T-shirt,Fashion,4,25.0,5,New York,Cash,Delivered
+1008,Henry,Mixer,Home,1,120.0,12,Dallas,Card,Delivered
+1009,Isla,Apples,Grocery,10,3.0,0,Miami,UPI,Delivered
+1010,Jack,Cycle,Sports,1,450.0,8,Seattle,Net Banking,Delivered
+1011,Alice,Monitor,Electronics,2,300.0,10,New York,Card,Delivered
+1012,Bob,Jacket,Fashion,1,150.0,15,Chicago,Cash,Returned
+1013,Charlie,Table,Home,1,250.0,5,Dallas,UPI,Delivered
+1014,David,Milk,Grocery,12,2.5,0,Miami,Card,Delivered
+1015,Eva,Cricket Bat,Sports,2,90.0,10,Seattle,UPI,Delivered
+1016,Frank,Keyboard,Electronics,3,60.0,5,Chicago,Card,Cancelled
+1017,Grace,Dress,Fashion,2,110.0,20,New York,Net Banking,Delivered
+1018,Henry,Lamp,Home,4,40.0,5,Dallas,Cash,Delivered
+1019,Isla,Juice,Grocery,6,4.0,0,Miami,UPI,Delivered
+1020,Jack,Tennis Racket,Sports,1,180.0,15,Seattle,Card,Delivered

@@ -240,7 +240,21 @@ A collection of real-world data analysis projects built using \*\*Python\*\* and
 
 
 
-\#Skills Used = GroupBy, idxmax(), nlargest(), Business Analysis
+\######### Project 9 – E-Commerce Orders Analysis
+
+\- Revenue analysis from delivered orders
+
+\- Customer spending analysis
+
+\- Payment method analysis
+
+\- Product and category insights
+
+\- Order status analysis
+
+
+
+\#Skills Used = GroupBy, idxmax(), nlargest(), Business Analysis,idxmin(),nsmallest()
 
 \# Technologies Used:
 

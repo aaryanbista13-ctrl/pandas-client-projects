@@ -1,0 +1,21 @@
+Order_ID,Customer,Product,Category,Quantity,Price,Discount,City,Payment_Method,Order_Status,Order_Value,Discount_Amount,Final_Revenue
+1001,Alice,Laptop,Electronics,1,1200.0,10,New York,Card,Delivered,1200.0,120.0,1080.0
+1002,Bob,Shoes,Fashion,2,80.0,5,Chicago,UPI,Delivered,160.0,8.0,152.0
+1003,Charlie,Rice,Grocery,5,20.0,0,Dallas,Cash,Cancelled,100.0,0.0,100.0
+1004,David,Sofa,Home,1,700.0,15,Miami,Card,Delivered,700.0,105.0,595.0
+1005,Eva,Football,Sports,3,35.0,10,Seattle,Net Banking,Returned,105.0,10.5,94.5
+1006,Frank,Headphones,Electronics,2,150.0,20,Chicago,UPI,Delivered,300.0,60.0,240.0
+1007,Grace,T-shirt,Fashion,4,25.0,5,New York,Cash,Delivered,100.0,5.0,95.0
+1008,Henry,Mixer,Home,1,120.0,12,Dallas,Card,Delivered,120.0,14.4,105.6
+1009,Isla,Apples,Grocery,10,3.0,0,Miami,UPI,Delivered,30.0,0.0,30.0
+1010,Jack,Cycle,Sports,1,450.0,8,Seattle,Net Banking,Delivered,450.0,36.0,414.0
+1011,Alice,Monitor,Electronics,2,300.0,10,New York,Card,Delivered,600.0,60.0,540.0
+1012,Bob,Jacket,Fashion,1,150.0,15,Chicago,Cash,Returned,150.0,22.5,127.5
+1013,Charlie,Table,Home,1,250.0,5,Dallas,UPI,Delivered,250.0,12.5,237.5
+1014,David,Milk,Grocery,12,2.5,0,Miami,Card,Delivered,30.0,0.0,30.0
+1015,Eva,Cricket Bat,Sports,2,90.0,10,Seattle,UPI,Delivered,180.0,18.0,162.0
+1016,Frank,Keyboard,Electronics,3,60.0,5,Chicago,Card,Cancelled,180.0,9.0,171.0
+1017,Grace,Dress,Fashion,2,110.0,20,New York,Net Banking,Delivered,220.0,44.0,176.0
+1018,Henry,Lamp,Home,4,40.0,5,Dallas,Cash,Delivered,160.0,8.0,152.0
+1019,Isla,Juice,Grocery,6,4.0,0,Miami,UPI,Delivered,24.0,0.0,24.0
+1020,Jack,Tennis Racket,Sports,1,180.0,15,Seattle,Card,Delivered,180.0,27.0,153.0
